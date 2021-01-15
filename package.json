@@ -1,0 +1,13 @@
+{
+  "name": "empty-project",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A barebones application",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vertx/core": "4.0.0"
+  }
+}
